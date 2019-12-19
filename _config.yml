@@ -1,10 +1,10 @@
 title: Eric Mahasi # your name (or website title) here
 logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>Python Software Developer<br>
-  Second description 
-  <br>Data Nerd<br>
+  Python Software Developer
+  <br><br>
+  Data Nerd
+  <br><br>
   <a href="https://www.linkedin.com/in/eric-mahasi/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
