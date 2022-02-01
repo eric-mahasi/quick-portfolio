@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Tableau Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Visualizing COVID-19 Data](https://public.tableau.com/views/CovidDashboard_16429730995150/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+<img src="images/Dashboard 1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analyzing Seattle AirBnB data](https://public.tableau.com/views/AirBnBSeattleData/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+<img src="images/Dashboard 2.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### SQL Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Data Cleansing](https://github.com/eric-mahasi/portfolio-projects/blob/main/Data%20Cleansing.sql)
+- [Data Exploration](https://github.com/eric-mahasi/portfolio-projects/blob/main/Data%20Exploration.sql)
 
 ---
 
